@@ -7,7 +7,7 @@
 OpenLoop is an FTC autonomous system designed to make autonomous
 programming **simple, intuitive, and accessible**.
 
-OpenLoop is built for teams with little or no experience in autonomous programming, and for teams who want a simple way to get an autonomous routine working without relying on complex hardware or software. Using simple, intuitive commands, OpenLoop allows teams to create autonomous routines without odometry pods, drive encoders, or IMUs. It works with both mecanum and tank drivetrains. The goal is to make autonomous programming easier to understand and more accessible with commmands as simple as-
+OpenLoop is built for teams with little or no experience in autonomous programming, and for teams who want a simple way to get an autonomous routine working without relying on complex hardware or software. Using simple, intuitive commands, OpenLoop allows teams to create autonomous routines without odometry pods, drive encoders, or IMUs. It works with both mecanum and tank drivetrains. The goal is to make autonomous programming easier to understand and more accessible with commands as simple as-
 ``` java
 bot.forward(24);
 bot.turn(90);
